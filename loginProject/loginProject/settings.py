@@ -27,7 +27,7 @@ SECRET_KEY = '&9n%aui8l5s@5i!%(18nka0r)i@2v5hc%s_b-&$j-=q#)17wlf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://ramisha.pythonanywhere.com/']
 
 
 # Application definition
